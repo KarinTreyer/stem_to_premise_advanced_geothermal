@@ -4,26 +4,25 @@
     "title": "Switzerland TIMES scenario integration in ecoinvent",
     "description": "Implementation of Swiss TIMES (STEM) scenarios in ecoinvent for the SWEET SURE project.",
     "version": "0.0.1",
-    "contributors":[{
-    "title": "Romain Sacchi",
-    "email": "romain.sacchi@psi.ch"
-    },
-    {
-    "title": "Alvaro H. Menacho",
-    "email": "alvaro.hahn-menacho@psi.ch"
-    }],
+    "contributors":[
+        {
+            "title": "Karin Treyer",
+            "email": "karin.treyer@psi.ch"
+        },
+        {
+            "title": "Romain Sacchi",
+            "email": "romain.sacchi@psi.ch"
+        }
+    ],
     "dependencies": {
-        "premise": ">=2.1.1"
+        "premise": ">=2.2.7"
     },
     "ecoinvent": {
         "version": "3.10",
         "system model": "cut-off"
     },
     "scenarios": [
-        "SPS1",
-        "SPS2",
-        "SPS3",
-        "SPS4"
+        "AGS_1160"
     ],
     "licenses": [{
     "id": "CC0-1.0",
