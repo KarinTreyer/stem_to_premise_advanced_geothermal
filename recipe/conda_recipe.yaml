@@ -1,0 +1,17 @@
+# run `conda env create -f recipe/conda_recipe.yaml` to create the environment
+name: stem-lca
+channels:
+  - romainsacchi
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy<2.0.0
+  - bw2calc==1.8.2
+  - bw2data==3.6.6
+  - bw2io==0.8.12
+  - premise-bw2
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - constructive_geometries>=1.0.0
