@@ -1,0 +1,2 @@
+# stem_to_premise_advanced_geothermal
+ This is a repository containing a data package that implements the projections of the TIMES model for Switzerland (STEM) within the life-cycle assessment (LCA) database ecoinvent. Projections are implemented for STEM scenarios including electricity from Advanced Geothermal Systems (AGS). These models have been developed within the frame of the Innosuisse Flagship project "AEGIS". 
