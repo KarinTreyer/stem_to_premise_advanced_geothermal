@@ -483,11 +483,10 @@ production pathways:
     production volume:
       variable: Electricity generation|Geothermal|Deep geothermal
     ecoinvent alias:
-      name: electricity production, deep geothermal
+      name: electricity production, advanced geothermal system plant
       reference product: electricity, high voltage
-      exists in original database: True
-    efficiency:
-      - variable: Efficiency of power plants (electric)|Geothermal|Deep geothermal
+      exists in original database: False
+      mask: renewable energy products
 
   hydrogen fuel cell (DH CHP):
     production volume:
