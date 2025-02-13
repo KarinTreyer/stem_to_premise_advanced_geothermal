@@ -5,13 +5,13 @@ import numpy as np
 final_df = pd.DataFrame()
 
 for scenario in [
-    "SPS1",
-    "SPS2",
-    "SPS3",
-    "SPS4",
+    "AGS_1160",
+    #"SPS2",
+    #"SPS3",
+    #"SPS4",
 ]:
 
-    df = pd.read_excel(f"STEM_to_Premise_{scenario}.xlsx", sheet_name="SPS1")
+    df = pd.read_excel(f"STEM_to_Premise_{scenario}.xlsx", sheet_name="SPS1", engine="openpyxl")
     df.columns = ["model", "scenario", "region", "variables", "unit", 2020, 2022, 2025, 2030, 2040, 2050]
 
     df["model"] = "STEM"
