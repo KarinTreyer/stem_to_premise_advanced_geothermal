@@ -1,8 +1,8 @@
 {
     "profile": "data-package",
-    "name": "sweet-sure-2050-switzerland",
-    "title": "Switzerland TIMES scenario integration in ecoinvent",
-    "description": "Implementation of Swiss TIMES (STEM) scenarios in ecoinvent for the SWEET SURE project.",
+    "name": "ags-stem-2050-switzerland",
+    "title": "Switzerland TIMES scenarios with AGS integration in ecoinvent",
+    "description": "Implementation of Swiss TIMES (STEM) scenarios with Advanced Geothermal Power in ecoinvent for the AEGIS project.",
     "version": "0.0.1",
     "contributors":[
         {
@@ -22,7 +22,17 @@
         "system model": "cut-off"
     },
     "scenarios": [
-        "AGS_1160"
+        "AGS_1001",
+        "AGS_1101",
+        "AGS_1104",
+        "AGS_1108",
+        "AGS_1111",
+        "AGS_1114",
+        "AGS_1116",
+        "AGS_1118",
+        "BAU_AGS"
+        
+
     ],
     "licenses": [{
     "id": "CC0-1.0",
@@ -109,7 +119,7 @@
             "encoding": "utf-8"
         },
         {
-            "path": "inventories/lci-sweet_sure.xlsx",
+            "path": "inventories/lci-inventories_aegis.xlsx",
             "profile": "data-resource",
             "name": "inventories",
             "format": "csv",

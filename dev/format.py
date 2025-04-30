@@ -4,14 +4,27 @@ import numpy as np
 
 final_df = pd.DataFrame()
 
-for scenario in [
-    "AGS_1160",
-    #"SPS2",
-    #"SPS3",
-    #"SPS4",
-]:
+import os
+dir = os.path.dirname(os.path.abspath(__file__))
 
-    df = pd.read_excel(f"STEM_to_Premise_{scenario}.xlsx", sheet_name="SPS1", engine="openpyxl")
+for scenario in [
+        "AGS_1001",
+        "AGS_1101",
+        "AGS_1104",
+        "AGS_1108",
+        "AGS_1111",
+        "AGS_1114",
+        "AGS_1116",
+        "AGS_1118",
+        "BAU_AGS",
+    ]:
+
+    excel_path = os.path.join(dir, f"STEM_to_Premise_{scenario}.xlsx")
+ 
+    df = pd.read_excel(excel_path, sheet_name="SPS1", engine="openpyxl")
+
+
+    #df = pd.read_excel(f"STEM_to_Premise_{scenario}.xlsx", sheet_name="SPS1", engine="openpyxl")
     df.columns = ["model", "scenario", "region", "variables", "unit", 2020, 2022, 2025, 2030, 2040, 2050]
 
     df["model"] = "STEM"
