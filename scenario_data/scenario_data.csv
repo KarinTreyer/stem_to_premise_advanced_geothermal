@@ -16869,7 +16869,7 @@ STEM,BAU_AGS,CH,Efficiency of power plants (electric)|Gas|Gas turbines open cycl
 STEM,BAU_AGS,CH,Efficiency of power plants (electric)|Gas|Gas turbines combined cycle CCS,%,0,0.0,0.0,0.0,0.0,0.0
 STEM,BAU_AGS,CH,Efficiency of power plants (electric)|Gas|CHP Gas (for District Heating),%,0.19490564992874929,0.13888583175913516,0.20601991307022768,0.24420139335575733,0.2490259136057404,0.2513863081832552
 STEM,BAU_AGS,CH,Efficiency of power plants (electric)|Gas|CHP Fuel Cell Gas (for District Heating),%,0.39999999999999963,0.39999999999999963,0.39999999999999963,0.39999999999999963,0.39999999999999963,0.4
-STEM,BAU_AGS,CH,Efficiency of power plants (electric)|Gas|Industrial CHPs gas,%,-',0.19006742380346991,0.25647288372530075,0.3359120031437733,0.3195156501682624,0.30664330296843495
+STEM,BAU_AGS,CH,Efficiency of power plants (electric)|Gas|Industrial CHPs gas,%,0,0.19006742380346991,0.25647288372530075,0.3359120031437733,0.3195156501682624,0.30664330296843495
 STEM,BAU_AGS,CH,Efficiency of power plants (electric)|Gas|Industrial CHPs gas (CCS),%,0,0.0,0.0,0.0,0.0,0.0
 STEM,BAU_AGS,CH,Efficiency of power plants (electric)|Gas|Industrial CHPs fuel cells (gas reformer),%,0,0.0,0.0,0.0,0.0,0.0
 STEM,BAU_AGS,CH,Efficiency of power plants (electric)|Gas|Residential single family CHPs gas,%,0.04303996336924138,0.22423020007729783,0.1987240684477246,0.2256198934341339,0.23731739421893483,0.23866694984148729
