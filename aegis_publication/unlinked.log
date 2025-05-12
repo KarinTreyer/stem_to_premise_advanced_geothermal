@@ -1,0 +1,4 @@
+2025-05-12 21:12:34 - DEBUG - __init__ - matplotlib data path: /opt/anaconda3/envs/ags/lib/python3.11/site-packages/matplotlib/mpl-data
+2025-05-12 21:12:34 - DEBUG - __init__ - CONFIGDIR=/Users/coeci/.matplotlib
+2025-05-12 21:12:34 - DEBUG - __init__ - interactive is False
+2025-05-12 21:12:34 - DEBUG - __init__ - platform is darwin
