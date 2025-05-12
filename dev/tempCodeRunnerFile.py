@@ -1,0 +1,1 @@
+final_df.to_csv(f"C:\Users\treyer_k\Documents\GitHub\stem_to_premise_advanced_geothermal\scenario_data\scenario_data.csv", index=False, sep=",")
