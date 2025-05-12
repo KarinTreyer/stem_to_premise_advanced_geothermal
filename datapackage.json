@@ -22,14 +22,13 @@
         "system model": "cut-off"
     },
     "scenarios": [
-        "AGS_1001",
-        "AGS_1101",
-        "AGS_1104",
-        "AGS_1108",
-        "AGS_1111",
-        "AGS_1114",
-        "AGS_1116",
-        "AGS_1118",
+        "AGS_1141",
+        "AGS_1147",
+        "AGS_1149",
+        "AGS_1150",
+        "AGS_1152",
+        "AGS_1156",
+        "AGS_1160",
         "BAU_AGS"
         
 

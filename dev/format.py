@@ -8,14 +8,13 @@ import os
 dir = os.path.dirname(os.path.abspath(__file__))
 
 for scenario in [
-        "AGS_1001",
-        "AGS_1101",
-        "AGS_1104",
-        "AGS_1108",
-        "AGS_1111",
-        "AGS_1114",
-        "AGS_1116",
-        "AGS_1118",
+        "AGS_1141",
+        "AGS_1147",
+        "AGS_1149",
+        "AGS_1150",
+        "AGS_1152",
+        "AGS_1156",
+        "AGS_1160",
         "BAU_AGS",
     ]:
 
@@ -126,4 +125,6 @@ for scenario in [
 
 
 # save to csv
-final_df.to_csv(f"../scenario_data/scenario_data.csv", index=False, sep=",")
+
+
+final_df.to_csv(r"C:\Users\treyer_k\Documents\GitHub\stem_to_premise_advanced_geothermal\scenario_data\scenario_data.csv", index=False, sep=",")
