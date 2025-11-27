@@ -18,7 +18,7 @@
         "premise": ">=2.2.7"
     },
     "ecoinvent": {
-        "version": "3.10.1",
+        "version": "3.10",
         "system model": "cut-off"
     },
     "scenarios": [

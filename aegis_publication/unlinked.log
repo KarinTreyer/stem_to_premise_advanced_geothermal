@@ -2,3 +2,45 @@
 2025-05-12 21:12:34 - DEBUG - __init__ - CONFIGDIR=/Users/coeci/.matplotlib
 2025-05-12 21:12:34 - DEBUG - __init__ - interactive is False
 2025-05-12 21:12:34 - DEBUG - __init__ - platform is darwin
+2025-05-13 08:28:22 - DEBUG - __init__ - matplotlib data path: c:\Users\treyer_k\Anaconda3\envs\ags\Lib\site-packages\matplotlib\mpl-data
+2025-05-13 08:28:22 - DEBUG - __init__ - CONFIGDIR=C:\Users\treyer_k\.matplotlib
+2025-05-13 08:28:22 - DEBUG - __init__ - interactive is False
+2025-05-13 08:28:22 - DEBUG - __init__ - platform is win32
+2025-05-13 08:28:22 - DEBUG - __init__ - CACHEDIR=C:\Users\treyer_k\.matplotlib
+2025-05-13 08:28:22 - DEBUG - font_manager - Using fontManager instance from C:\Users\treyer_k\.matplotlib\fontlist-v390.json
+2025-05-13 11:25:48 - DEBUG - __init__ - matplotlib data path: c:\Users\treyer_k\Anaconda3\envs\ags\Lib\site-packages\matplotlib\mpl-data
+2025-05-13 11:25:48 - DEBUG - __init__ - CONFIGDIR=C:\Users\treyer_k\.matplotlib
+2025-05-13 11:25:48 - DEBUG - __init__ - interactive is False
+2025-05-13 11:25:48 - DEBUG - __init__ - platform is win32
+2025-05-13 11:25:48 - DEBUG - __init__ - CACHEDIR=C:\Users\treyer_k\.matplotlib
+2025-05-13 11:25:48 - DEBUG - font_manager - Using fontManager instance from C:\Users\treyer_k\.matplotlib\fontlist-v390.json
+2025-05-13 11:36:45 - DEBUG - __init__ - matplotlib data path: c:\Users\treyer_k\Anaconda3\envs\ags\Lib\site-packages\matplotlib\mpl-data
+2025-05-13 11:36:45 - DEBUG - __init__ - CONFIGDIR=C:\Users\treyer_k\.matplotlib
+2025-05-13 11:36:46 - DEBUG - __init__ - interactive is False
+2025-05-13 11:36:46 - DEBUG - __init__ - platform is win32
+2025-05-13 11:36:46 - DEBUG - __init__ - CACHEDIR=C:\Users\treyer_k\.matplotlib
+2025-05-13 11:36:46 - DEBUG - font_manager - Using fontManager instance from C:\Users\treyer_k\.matplotlib\fontlist-v390.json
+2025-05-14 08:51:12 - DEBUG - __init__ - matplotlib data path: c:\Users\treyer_k\Anaconda3\envs\ags\Lib\site-packages\matplotlib\mpl-data
+2025-05-14 08:51:12 - DEBUG - __init__ - CONFIGDIR=C:\Users\treyer_k\.matplotlib
+2025-05-14 08:51:12 - DEBUG - __init__ - interactive is False
+2025-05-14 08:51:12 - DEBUG - __init__ - platform is win32
+2025-05-14 08:51:12 - DEBUG - __init__ - CACHEDIR=C:\Users\treyer_k\.matplotlib
+2025-05-14 08:51:12 - DEBUG - font_manager - Using fontManager instance from C:\Users\treyer_k\.matplotlib\fontlist-v390.json
+2025-05-15 16:16:42 - DEBUG - __init__ - matplotlib data path: c:\Users\treyer_k\Anaconda3\envs\ags\Lib\site-packages\matplotlib\mpl-data
+2025-05-15 16:16:42 - DEBUG - __init__ - CONFIGDIR=C:\Users\treyer_k\.matplotlib
+2025-05-15 16:16:42 - DEBUG - __init__ - interactive is False
+2025-05-15 16:16:42 - DEBUG - __init__ - platform is win32
+2025-05-15 16:16:43 - DEBUG - __init__ - CACHEDIR=C:\Users\treyer_k\.matplotlib
+2025-05-15 16:16:43 - DEBUG - font_manager - Using fontManager instance from C:\Users\treyer_k\.matplotlib\fontlist-v390.json
+2025-05-15 16:23:23 - DEBUG - __init__ - matplotlib data path: c:\Users\treyer_k\Anaconda3\envs\ags\Lib\site-packages\matplotlib\mpl-data
+2025-05-15 16:23:23 - DEBUG - __init__ - CONFIGDIR=C:\Users\treyer_k\.matplotlib
+2025-05-15 16:23:23 - DEBUG - __init__ - interactive is False
+2025-05-15 16:23:23 - DEBUG - __init__ - platform is win32
+2025-05-15 16:23:23 - DEBUG - __init__ - CACHEDIR=C:\Users\treyer_k\.matplotlib
+2025-05-15 16:23:23 - DEBUG - font_manager - Using fontManager instance from C:\Users\treyer_k\.matplotlib\fontlist-v390.json
+2025-06-05 18:32:10 - DEBUG - __init__ - matplotlib data path: c:\Users\treyer_k\Anaconda3\envs\ags\Lib\site-packages\matplotlib\mpl-data
+2025-06-05 18:32:10 - DEBUG - __init__ - CONFIGDIR=C:\Users\treyer_k\.matplotlib
+2025-06-05 18:32:10 - DEBUG - __init__ - interactive is False
+2025-06-05 18:32:10 - DEBUG - __init__ - platform is win32
+2025-06-05 18:32:10 - DEBUG - __init__ - CACHEDIR=C:\Users\treyer_k\.matplotlib
+2025-06-05 18:32:10 - DEBUG - font_manager - Using fontManager instance from C:\Users\treyer_k\.matplotlib\fontlist-v390.json
